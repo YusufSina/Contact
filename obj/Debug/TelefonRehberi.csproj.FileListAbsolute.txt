@@ -1,0 +1,12 @@
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form2.resources
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.Cache
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+C:\Users\Yusuf Sina\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form3.resources
